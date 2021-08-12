@@ -1,0 +1,116 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    color: #fff;
+    font-family: font-family, 'Caveat', cursive;
+}
+
+body {
+    background: rgb(24, 26, 39);
+    height: 600px;
+}
+
+.header {
+    width: 100%;
+    height: 50px;
+    background: rgb(88, 180, 3);
+}
+
+.img-header {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border:5px solid rgb(24, 26, 39);
+    transform: translateY(-30px) translateX(-40px);
+}
+
+.dos {
+    transform: translateX(230px);
+    width: 100px;
+    height: 450px;
+    z-index: 1000;
+}
+
+.vertical {
+    width: 100px;
+    height: 450px;
+    border-radius: 20%;
+    background: rgb(88, 180, 3);
+}
+
+.logo-ar {
+    width: 100px;
+    height: 100px;
+}
+
+.fb {
+    width: 58px;
+    height: 58px;
+    margin: 5px;
+}
+
+.what {
+    width: 58px;
+    height: 58px;
+    margin: 5px;
+}
+
+.insta {
+    width: 70px;
+    height: 58px;
+    margin: 5px;
+    margin-left: -3px;
+}
+
+.correo {
+    width: 58px;
+    height: 58px;
+    margin: 5px;
+}
+
+.ubi {
+    width: 58px;
+    height: 58px;
+    margin: 5px;
+}
+
+.social-container {
+    transform: translateX(15px);
+}
+
+.tres {
+    width: 150px;
+    height: 150px;
+    transform: translateX(-45px) translateY(20px);
+}
+
+.img-bocadito {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid rgb(88, 180, 3); 
+}
+
+.nombre {
+    width: 150px;
+    height: 150px;
+    transform: translateY(-420px);
+    margin-left: 40px;
+}
+
+.nombre2 {
+    margin-top: 15px;
+    margin-left: 30px;
+    font-size: 20px;
+}
+.foto {
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+}
+
+.footer {
+    background-color: rgb(88, 180, 3);
+    width: 100%;
+    height: 40px;
+}
